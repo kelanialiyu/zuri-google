@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-size:20px; 
+}
+main{
+	width: 50%;
+	margin: 5px auto;
+	text-align: center;	
+}
+
+.searchbtn{
+	width:80%;
+	height:40px;
+	border-radius: 20px;
+}
+li{
+	display:inline-block !important;
+	margin: 5px;
+}
+nav{
+	background-color: lightgrey;
+	height: 90px;
+	line-height: 25px;
+}
+nav div{
+	display: inline-block !important;
+
+}
+.left{
+	float: left;
+	padding-left: 5px;
+}
+.right{
+	float: right;
+	text-align:right;
+	padding-right: 5px; 
+}
+.center{
+	float: center;
+	text-align:center; 
+}
