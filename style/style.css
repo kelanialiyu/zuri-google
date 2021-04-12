@@ -16,6 +16,7 @@ ul li{
 
 a{
 	text-decoration: none;
+	color:#33d;
 }
 
 a:hover{
@@ -30,7 +31,7 @@ nav{
 	background-color: lightgrey;
 }
 nav ul li a{
-	color:#222;
+	color:#333;
 }
 header{
 	position: relative;
@@ -68,6 +69,7 @@ main a, main button, main input, main p{
 	line-height:3rem;
 	border-radius:1rem;
 	outline: none; 
+	border: 1px #777 solid;
 }
 
 .buttons button{
